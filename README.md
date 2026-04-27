@@ -2,7 +2,7 @@
 
 An interactive web application for analyzing user behavior in e-commerce products. Drop in user event data and instantly see two of the most important product-analytics views: **purchase funnel drop-offs** and **cohort retention curves**.
 
-🔗 **Live demo:** [your-streamlit-cloud-link-here]
+🔗 **Live demo:** (https://funnel-cohort-akshay.streamlit.app/)
 
 ---
 
